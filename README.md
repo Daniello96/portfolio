@@ -17,3 +17,5 @@ Hi everyone, my name is Daniel Waga, I'm an electronics technician and I graduat
 # Courses
 * [Tester Manualny CodersLab](https://coderslab.pl/pl/kurs/tester-manualny/o-kursie)
 * [Lots of basic Courses from Udemy](https://www.udemy.com/)
+# Books
+* Radosław Smilgin - **Zawó Tester**
