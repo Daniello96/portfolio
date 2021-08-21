@@ -14,3 +14,5 @@ Hi everyone, my name is Daniel Waga, I'm an electronics technician and I graduat
 * Creating test cases
 * Reporting bugs
 * Creating diagrams and decision tables
+# Courses
+* (https://coderslab.pl/pl/kurs/tester-manualny/o-kursie)
