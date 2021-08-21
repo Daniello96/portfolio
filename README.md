@@ -19,3 +19,9 @@ Hi everyone, my name is Daniel Waga, I'm an electronics technician and I graduat
 * [Lots of basic Courses from Udemy](https://www.udemy.com/)
 # Books
 * Radosław Smilgin - **Zawód Tester**
+# Groups on Facebook\
+* Tester oprogramowania - wsparcie na starcie
+* Testowanie oprogramowania
+* ISTQB - egzaminy, pytania, testy
+# Webinars
+* CodersLab - o karierze testera
