@@ -26,4 +26,4 @@ Hi everyone, my name is Daniel Waga, I'm an electronics technician and I graduat
 # Webinars
 * CodersLab - o karierze testera
 # My Bugs Report
-* [Bugs report for 02.pl](https://drive.google.com/file/d/1oHnfKvM8n7CPQWNoWM0XZugVNBxpTdAN/view?ths=true)
+* [Bugs report for o2.pl](https://drive.google.com/file/d/1oHnfKvM8n7CPQWNoWM0XZugVNBxpTdAN/view?ths=true)
